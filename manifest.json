@@ -1,0 +1,12 @@
+{
+    "name": "YouTube hide recommendations",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "hide recommendations on YouTube",
+    "content_scripts": [{
+        "matches": ["https://www.youtube.com/*", "https://youtube.com/*"],
+        "js": [
+            "app.js"
+        ]
+    }]
+}
