@@ -9,7 +9,7 @@ For ones who spend too much time on YouTube.
 # Installation
 
 1. Download or Clone this repository.
-1. Open chrome://extension
+1. Open chrome://extensions
 1. Enable Developer Mode.
 1. Click on Load Unpacked and select your Unzip folder.
 
